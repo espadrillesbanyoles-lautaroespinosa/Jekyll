@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Configuration
+title: Documentación Funcional
 nav_order: 2
 ---
 
