@@ -4,10 +4,8 @@ theme: just-the-docs
 
 url: https://espadrillesbanyoles-lautaroespinosa.github.io/Jekyll
 
-
 aux_links:
 Template Repository: https://espadrillesbanyoles-lautaroespinosa.github.io/Jekyll
 
-
 plugins:
-  - jekyll-default-layout
+- jekyll-default-layout
