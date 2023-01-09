@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Documentación Funcional
-nav_order: 4
+title: Manual de usuario
+nav_order: 3
 ---
 
 # Configuration
