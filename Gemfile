@@ -9,4 +9,3 @@ gem "just-the-docs", "0.4.0.rc3" # currently the latest pre-release
 
 gem "jekyll-default-layout"
 # gem
-
