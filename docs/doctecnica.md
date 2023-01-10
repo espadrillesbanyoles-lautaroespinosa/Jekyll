@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Documentación Técnica
-nav_order: 3
+title: PNT
+nav_order: 2
 ---
 
-# Configuration
+# PNT
 {: .no_toc }
 
 Just the Docs has some specidddfic configuration parameters that can be defined in your Jekyll site's \_config.yml file.
